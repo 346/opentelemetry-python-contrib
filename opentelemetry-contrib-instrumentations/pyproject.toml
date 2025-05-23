@@ -35,6 +35,7 @@ dependencies = [
     "opentelemetry-instrumentation-aiohttp-server==0.55b0.dev",
     "opentelemetry-instrumentation-aiokafka==0.55b0.dev",
     "opentelemetry-instrumentation-aiopg==0.55b0.dev",
+    "opentelemetry-instrumentation-aiomysql==0.55b0.dev",
     "opentelemetry-instrumentation-asgi==0.55b0.dev",
     "opentelemetry-instrumentation-asyncclick==0.55b0.dev",
     "opentelemetry-instrumentation-asyncio==0.55b0.dev",
